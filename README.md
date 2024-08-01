@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+[![Ujwal's GitHub stats](https://github-readme-stats-1fb9zjcom-ujwal6702s-projects.vercel.app/api?username=Ujwal6702)](https://github.com/Ujwal6702/github-readme-stats)
+
+
 <!--
 **Ujwal6702/Ujwal6702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
