@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Ujwal's GitHub stats](https://github-readme-stats-1fb9zjcom-ujwal6702s-projects.vercel.app/api?username=Ujwal6702)](https://github.com/Ujwal6702/github-readme-stats)
+[![Ujwal's GitHub stats](https://github-readme-stats-1fb9zjcom-ujwal6702s-projects.vercel.app/api?username=Ujwal6702)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
